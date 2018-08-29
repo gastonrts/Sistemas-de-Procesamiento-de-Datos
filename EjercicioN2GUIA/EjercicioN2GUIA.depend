@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535498515 source:c:\users\gastón\desktop\material prog\ejercicion2guia\main.c
+	<stdio.h>
+	<stdlib.h>
+
