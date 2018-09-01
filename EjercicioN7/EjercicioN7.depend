@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535805815 source:/home/alumno/Escritorio/Lafuente_Gaston/Ej7/EjercicioN7/main.c
+	<stdio.h>
+	<stdlib.h>
+

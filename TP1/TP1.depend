@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1535812565 source:/home/alumno/Escritorio/Lafuente_Gaston/Ej7/TP1/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1535813710 source:/home/alumno/Escritorio/Lafuente_Gaston/Ej7/TP1/math.c
+
